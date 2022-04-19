@@ -1,25 +1,32 @@
 {
   "projects": [
     {
-      "id": 3,
-      "title": "ceate app",
-      "details": "this snwsw",
-      "important": true,
-      "complete": false
+      "title": " german ",
+      "details": "  reding 14 pages of A1 ",
+      "complete": false,
+      "important": false,
+      "id": 1
     },
     {
-      "title": " fuck",
-      "details": " shite",
+      "title": " update 2 esction of melody ",
+      "details": " work on melody app and fix the last 2 chapter",
       "complete": true,
-      "important": true,
-      "id": 4
+      "important": false,
+      "id": 2
     },
     {
-      "title": " finsh my Task planer ",
-      "details": " this is important task",
+      "title": "freelacner ",
+      "details": " find small gig less 2 hours of work ",
       "complete": false,
       "important": true,
-      "id": 5
+      "id": 3
+    },
+    {
+      "title": "gym ",
+      "details": " spend 1 hour in gym today ",
+      "complete": false,
+      "important": true,
+      "id": 4
     }
   ]
 }
